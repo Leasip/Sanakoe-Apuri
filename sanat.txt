@@ -1,0 +1,776 @@
+archipelago
+
+/ɑːkɪˈpɛləɡəʊ/
+
+saaristo
+
+bay, gulf
+
+/beɪ/, /ɡʌlf/
+
+lahti
+
+brook
+
+/brʊk/
+
+puro
+
+canal, channel
+
+/kəˈnæl/, /ʧænl/
+
+kanaali
+
+coast
+
+/kəʊst/
+
+rannikko
+
+current
+
+/kʌrənt/
+
+virta, virtaus
+
+delta
+
+/dɛltə/
+
+suisto
+
+ditch
+
+/dɪʧ/
+
+oja
+
+glacier
+
+/ɡlæsiə/
+
+jäätikkö
+
+iceberg
+
+/aɪsbɜːɡ/
+
+jäävuori
+
+island
+
+/aɪlənd/
+
+saari
+
+lake
+
+/leɪk/
+
+järvi
+
+ocean
+
+/əʊʃən/
+
+valtameri
+
+peninsula
+
+/pɪˈnɪnsjʊlə/
+
+niemimaa
+
+pond
+
+/pɒnd/
+
+lampi
+
+reef
+
+/riːf/
+
+riutta, särkkä
+
+river
+
+/rɪvə/
+
+joki
+
+sea
+
+/siː/
+
+meri
+
+spring
+
+/sprɪŋ/
+
+lähde
+
+tide
+
+/taɪd/
+
+vuorovesi
+
+waterfall
+
+/wɔːtəfɔːl/
+
+vesiputous
+
+TERRAIN
+clay
+
+/kleɪ/
+
+savi
+
+continent
+
+/kɒntɪnənt/
+
+maanosa
+
+desert
+
+/dɛzət/
+
+autiomaa
+
+dirt, earth, soil
+
+/dɜːt/, /ɜːθ/, /sɔɪl/
+
+multa
+
+fertile
+
+/fɜːtaɪl/
+
+hedelmällinen
+
+field
+
+/fiːld/
+
+pelto
+
+fjeld, fell
+
+/fjɛld/, /fɛl/
+
+tunturi
+
+gorge, ravine
+
+/ɡɔːʤ/, /rəˈviːn/
+
+rotko
+
+gravel
+
+/ɡrævəl/
+
+sora
+
+hill
+
+/hɪl/
+
+mäki, kukkula
+
+interior
+
+/ɪnˈtɪərɪə/
+
+sisämaa
+
+landscape, scenery
+
+/lænskeɪp/, /siːnəri/
+
+maisema
+
+lowland
+
+/ləʊlənd/
+
+alanko
+
+mainland
+
+/meɪnlənd/
+
+mantere
+
+mountain range
+
+/maʊntɪn reɪnʤ/
+
+vuoristo
+
+mud
+
+/mʌd/
+
+muta
+
+non-arable, barren
+
+/nɒn ærəbl/, /bærən/
+
+viljelyyn sopimaton
+
+plain
+
+/pleɪn/
+
+tasanko
+
+plateau
+
+/plætəʊ/
+
+ylätasanko
+
+sand
+
+/sænd/
+
+hiekka
+
+slope
+
+/sləʊp/
+
+rinne
+
+soil, earth, ground
+
+/sɔɪl/, /ɜːθ/, /ɡraʊnd/
+
+maaperä
+
+valley
+
+/væli/
+
+laakso
+
+volcano
+
+/vɒlˈkeɪnəʊ/
+
+tulivuori
+
+wilderness
+
+/wɪldənɪs/
+
+erämaa
+
+GENERAL
+endangered (species)
+
+/ɪnˈdeɪnʤəd spiːʃiːz/
+
+uhanalainen (laji)
+
+extinction
+
+/ɪksˈtɪŋkʃən/
+
+sukupuuttoon kuoleminen
+
+food chain
+
+/fuːd ʧeɪn/
+
+ravintoketju
+
+habitat
+
+/hæbɪtæt/
+
+elinympäristö
+
+indigenous
+
+/ɪnˈdɪʤɪnəs/
+
+kotoperäinen, alkuperäinen
+
+invasive species
+
+/ɪnˈveɪsɪv spiːʃiːz/
+
+vieraslaji
+
+protected (species)
+
+/prəˈtɛktɪd spiːʃiːz/
+
+rauhoitettu (laji)
+
+
+sanctuary
+
+/sæŋktjʊəri/
+
+suojelualue, rauhoitusalue
+
+species, species
+
+/spiːʃiːz/, /spiːʃiːz/
+
+laji, lajit
+
+wildlife
+
+/waɪldlaɪf/
+
+luonto; luonnonvaraiset eläimet (ja joskus myös kasvit)
+
+alga, algae
+
+/ælɡə/, /ælʤiː/
+
+levä, levät
+
+bloom
+
+/bluːm/
+
+kukinto, kukkia
+
+blossom
+
+/blɒsəm/
+
+kukka, kukkia
+
+branch
+
+/brɑːnʧ/
+
+oksa
+
+bud
+
+/bʌd/
+
+nuppu
+
+bush
+
+/bʊʃ/
+
+pensas
+
+cone
+
+/kəʊn/
+
+käpy
+
+coniferous tree
+
+/kəʊˈnɪfərəs triː/
+
+havupuu
+
+cyanobacteria, blue-green algae
+
+/ saɪənəʊbækˈtɪərɪə/, /bluː ɡriːn ælʤiː/
+
+sinilevä
+
+deciduous tree
+
+/dɪˈsɪdjʊəs triː/
+
+lehtipuu
+
+evergreen (plant)
+
+/ˈɛvəɡriːn plɑːnt/
+
+ikivihreä (kasvi)
+
+flora and fauna
+
+/flɔːrə ænd fɔːnə/
+
+kasvit ja eläimet
+
+foliage
+
+/fəʊlɪɪʤ/
+
+lehvistö, lehdet
+
+forest
+
+/fɒrɪst/
+
+metsä
+
+grove
+
+/ɡrəʊv/
+
+metsikkö, lehto
+
+herb
+
+/hɜːb/
+
+yrtti
+
+jungle
+
+/ʤʌŋɡl/
+
+viidakko
+
+lichen
+
+/laɪkən/, /lɪtʃən/
+
+jäkälä
+
+meadow
+
+/mɛdəʊ/
+
+niitty
+
+moss
+
+/mɒs/
+
+sammal
+
+mushroom; fungus, fungi
+
+/mʌʃrʊm/; /fʌŋɡəs/, /fʌŋɡaɪ/
+
+sieni, sienet
+
+needle
+
+/niːdl/
+
+neulanen
+
+plant
+
+/plɑːnt/
+
+kasvi; istuttaa
+
+pollen
+
+/pɒlɪn/
+
+siitepöly
+
+sapling
+
+/sæplɪŋ/
+
+taimi
+
+seed
+
+/siːd/
+
+siemen
+
+shrub
+
+/ʃrʌb/
+
+varpu, pensas
+
+sprout
+
+/spraʊt/
+
+verso, itu
+
+swamp, bog, marshland
+
+/swɒmp/, /bɒɡ/, /mɑːʃlænd/
+
+suo
+
+trunk
+
+/trʌŋk/
+
+runko
+
+vegetation
+
+/vɛʤɪˈteɪʃən/
+
+kasvillisuus
+
+weed
+
+/wiːd/
+
+rikkaruoho
+
+wither
+
+/wɪðə/
+
+kuihtua, lakastua
+
+amphibian
+
+/æmˈfɪbɪən/
+
+sammakkoeläin
+
+antenna, antennae
+
+/ænˈtɛnə/, /ænˈtɛniː/
+
+tuntosarvi, tuntosarvet
+
+arachnid
+
+/əˈræknɪd/
+
+hämähäkkieläin
+
+beast
+
+/biːst/
+
+eläin, peto
+
+bird of prey
+
+/bɜːd ɒv preɪ/
+
+petolintu
+
+bovine animal
+
+/bəʊvaɪn ænɪməl/
+
+nautaeläin
+
+breed
+
+/briːd/
+
+rotu
+
+carnivore
+
+/kɑːnɪvɔː/
+
+lihansyöjä
+
+claw
+
+/klɔː/
+
+kynsi
+
+fin
+
+/fɪn/
+
+evä
+
+fur
+
+/fɜː/
+
+turkki
+
+game
+
+/ɡeɪm/
+
+riista
+
+gill
+
+/ɡɪl/
+
+kidus
+
+herbivore
+
+/hɜːbɪvɔː/
+
+kasvinsyöjä
+
+hibernate
+
+/haɪbɜːneɪt/
+
+talvehtia, horrostaa
+
+hoof
+
+/huːf/
+
+sorkka, kavio
+
+horn
+
+/hɔːn/
+
+sarvi
+
+hump
+
+/hʌmp/
+
+kyttyrä
+
+insect
+
+/ɪnsɛkt/
+
+hyönteinen
+
+invertebrate
+
+/ɪnˈvɜːtɪbrɪt/
+
+selkärangaton
+
+mammal
+
+/mæməl/
+
+nisäkäs
+
+marsupial
+
+/mɑːˈsuːpiəl/
+
+pussieläin
+
+migratory bird
+
+/maɪɡrətəri bɜːd/
+
+muuttolintu
+
+mollusc
+
+/mɒləsk/
+
+nilviäinen
+
+muzzle
+
+/mʌzl/
+
+turpa, kuono
+
+nest
+
+/nɛst/
+
+pesä; pesiä
+
+nocturnal animal
+
+/nɒkˈtɜːnl ænɪməl/
+
+yöeläin
+
+offspring
+
+/ɒfsprɪŋ/
+
+jälkeläiset
+
+paw
+
+/pɔː/
+
+tassu, käpälä
+
+reptile
+
+/rɛptaɪl/
+
+matelija
+
+rodent
+
+/rəʊdənt/
+
+jyrsijä
+
+scavenger
+
+/skævɪnʤə/
+
+haaskaeläin
+
+shell
+
+/ʃɛl/
+
+kilpi, kuori
+
+tail
+
+/teɪl/
+
+häntä
+
+tentacle
+
+/tɛntəkl/
+
+lonkero
+
+territory
+
+/tɛrɪtəri/
+
+reviiri
+
+tusk
+
+/tʌsk/
+
+syöksyhammas
+
+vermin
+
+/vɜːmɪn/
+
+tuhoeläin, tuholainen
+
+vertebrate
+
+/vɜːtɪbrɪt/
+
+selkärankainen
+
+whisker
+
+/wɪskə/
+
+viiksikarva
