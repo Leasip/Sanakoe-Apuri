@@ -1,9 +1,16 @@
 import pyperclip
 import re
 import time
+import os
 from difflib import SequenceMatcher
+# Get the directory of the executed script
+script_dir = os.path.dirname(os.path.abspath(__file__))
 
-with open(r'C:\Users\Leo\Documents\sanat.txt', encoding='utf-8') as input_file:
+# Construct the file path relative to the script's directory
+file_path = os.path.join(script_dir, 'sanat.txt')
+
+# Open the file for reading with utf-8 encoding
+with open(file_path, encoding='utf-8') as input_file:
     sanat = input_file.read()
     lines = input_file.readlines()
 
